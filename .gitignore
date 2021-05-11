@@ -1,0 +1,20 @@
+.idea/
+.metadata
+.recommenders
+target/
+target/*
+/target/
+.settings/
+.project
+.classpath
+*.iml
+*.sh
+nb-configuration.xml
+cadastro-web/Remote myapp.launch
+cadastro-web/New_configuration.launch
+logs/
+logs/*
+/logs/
+bin/
+bin/*
+/bin/
